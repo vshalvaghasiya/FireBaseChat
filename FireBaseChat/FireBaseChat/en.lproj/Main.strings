@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "CB5-te-vRR"; */
+"CB5-te-vRR.normalTitle" = "BACK";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "DEd-Ha-ETb"; */
+"DEd-Ha-ETb.placeholder" = "Enter Password";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "IJG-ov-rXb"; */
+"IJG-ov-rXb.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Firebase Registration"; ObjectID = "KGX-9i-UCo"; */
+"KGX-9i-UCo.text" = "Firebase Registration";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "KK1-Db-axm"; */
+"KK1-Db-axm.placeholder" = "Enter Password";
+
+/* Class = "UITextField"; placeholder = "Enter Email Id"; ObjectID = "Pud-Ha-A9j"; */
+"Pud-Ha-A9j.placeholder" = "Enter Email Id";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Yig-Vt-efP"; */
+"Yig-Vt-efP.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Contact Number"; ObjectID = "j7U-KH-Va3"; */
+"j7U-KH-Va3.placeholder" = "Contact Number";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "mnl-rq-eqb"; */
+"mnl-rq-eqb.placeholder" = "Full Name";
+
+/* Class = "UILabel"; text = "Firebase Login"; ObjectID = "okX-MU-Ih3"; */
+"okX-MU-Ih3.text" = "Firebase Login";
+
+/* Class = "UITextField"; placeholder = "Enter Email Id"; ObjectID = "x4S-H9-Zl7"; */
+"x4S-H9-Zl7.placeholder" = "Enter Email Id";
